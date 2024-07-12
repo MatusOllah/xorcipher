@@ -1,5 +1,7 @@
 # xorcipher
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/MatusOllah/xorcipher.svg)](https://pkg.go.dev/github.com/MatusOllah/xorcipher) [![Go Report Card](https://goreportcard.com/badge/github.com/MatusOllah/xorcipher)](https://goreportcard.com/report/github.com/MatusOllah/xorcipher)
+
 **xorcipher** is a XOR Cipher library for Go.
 
 ## Basic Usage
